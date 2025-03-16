@@ -1,0 +1,5 @@
+🔹 Step 1: Set up a basic Node.js server with Express.
+🔹 Step 2: Authenticate with Spotify API (Client Credentials or OAuth).
+🔹 Step 3: Implement MCP endpoints to interact with Spotify (e.g., search songs, get playlists).
+🔹 Step 4: Test the MCP server.
+🔹 Step 5: Write a README and make a demo video/slides.
